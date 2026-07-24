@@ -133,13 +133,6 @@ function split15(string15) {
 }
 console.log(split15(string15));
 
-
-
-
-
-
-
-
     //part2://
 /*1- forEach is a method in array that runs a function on every element 
 for...of is a type of loop.
